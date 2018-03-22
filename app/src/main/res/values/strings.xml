@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidEatIt</string>
+    <string name="slogin">Hello everybody ! There have been many requests for me to make this tutorial. And today I just had time to implement it, initially I was going to use Web Service written in ASP.NET </string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
